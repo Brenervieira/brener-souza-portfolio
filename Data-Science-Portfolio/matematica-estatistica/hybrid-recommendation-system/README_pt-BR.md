@@ -123,7 +123,7 @@ Este conjunto de análises busca validar se o sistema de recomendação realment
 
 ### 🎬 Filmes similares têm notas parecidas?
 
-![Comparação de Notas](/Data-Science-Portfolio/matemática%20estatística/Analise%20e%20Similaridade%20de%20%20Filme/img/filmes_similares.png)
+![Comparação de Notas](/Data-Science-Portfolio/matematica-estatistica/hybrid-recommendation-system/img/filmes_similares.png)
 
 **Insight:**
 
@@ -139,7 +139,8 @@ Este conjunto de análises busca validar se o sistema de recomendação realment
 * Popularidade vs Nota → **0.27**
 * Número de votos vs Nota → **0.31**
 
-![Grafico Correlação](/Data-Science-Portfolio/matemática%20estatística/Analise%20e%20Similaridade%20de%20%20Filme/img/grafico_popularidade.png)
+![Grafico Correlação](/Data-Science-Portfolio/matematica-estatistica/hybrid-recommendation-system/img/grafico_popularidade.png)
+
 
 **Insight:**
 
@@ -151,7 +152,7 @@ Este conjunto de análises busca validar se o sistema de recomendação realment
 
 ### 🎭 Existe padrão entre gêneros?
 
-![Boxplot por Gênero](/Data-Science-Portfolio/matemática%20estatística/Analise%20e%20Similaridade%20de%20%20Filme/img/Distribuoção_Notas.png)
+![Boxplot por Gênero](/Data-Science-Portfolio/matematica-estatistica/hybrid-recommendation-system/img/distribuicao_notas.png)
 
 **Insight:**
 
