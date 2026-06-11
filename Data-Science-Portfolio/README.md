@@ -47,9 +47,13 @@ My background in Accounting and experience in corporate environments provide a b
 - Pandas
 - NumPy
 - Scikit-Learn
+- Statsmodels
+- SciPy
 - Machine Learning
+- Statistical Modeling
+- A/B Testing
 - Data Analysis
-- Statistical Analysis
+- Business Analytics
 
 ## 📈 Visualização de Dados | Data Visualization
 
@@ -67,15 +71,27 @@ My background in Accounting and experience in corporate environments provide a b
 
 # 📂 Projetos em Destaque | Featured Projects
 
+## 🧪 A/B Testing for E-Commerce Conversion Optimization
+
+### 🇧🇷 Português
+
+Projeto de experimentação estatística para avaliar o impacto de uma nova experiência do usuário sobre a taxa de conversão. O estudo utiliza Teste Qui-Quadrado, Regressão Logística, análise de lift e segmentação por fonte de tráfego para gerar recomendações de negócio orientadas por dados.
+
+### 🇺🇸 English
+
+Statistical experimentation project designed to evaluate the impact of a new user experience on conversion rates. The study applies Chi-Square Testing, Logistic Regression, conversion lift analysis, and traffic source segmentation to generate data-driven business recommendations.
+
+---
+
 ## 🎬 Movie Recommendation System
 
 ### 🇧🇷 Português
 
-Sistema de recomendação de filmes utilizando Processamento de Linguagem Natural (NLP) e Similaridade de Cosseno para sugerir conteúdos semelhantes.
+Sistema de recomendação baseado em NLP e Similaridade de Cosseno para sugerir filmes semelhantes a partir de descrições textuais.
 
 ### 🇺🇸 English
 
-Movie recommendation system using Natural Language Processing (NLP) and Cosine Similarity to suggest similar content.
+Recommendation system based on NLP and Cosine Similarity to suggest similar movies using textual descriptions.
 
 ---
 
@@ -83,11 +99,11 @@ Movie recommendation system using Natural Language Processing (NLP) and Cosine S
 
 ### 🇧🇷 Português
 
-Modelo híbrido de recomendação combinando diferentes abordagens para melhorar a qualidade das recomendações.
+Sistema híbrido de recomendação combinando filtragem baseada em conteúdo e técnicas estatísticas para melhorar a qualidade das recomendações.
 
 ### 🇺🇸 English
 
-Hybrid recommendation model combining different recommendation techniques to improve recommendation quality.
+Hybrid recommendation system combining content-based filtering and statistical techniques to improve recommendation quality.
 
 ---
 
@@ -95,11 +111,23 @@ Hybrid recommendation model combining different recommendation techniques to imp
 
 ### 🇧🇷 Português
 
-Projeto focado na previsão de preços imobiliários utilizando técnicas estatísticas e modelos preditivos.
+Projeto de modelagem preditiva para estimativa de preços imobiliários utilizando técnicas de regressão e análise estatística.
 
 ### 🇺🇸 English
 
-Project focused on housing price prediction using statistical techniques and predictive models.
+Predictive modeling project focused on housing price estimation using regression techniques and statistical analysis.
+
+---
+
+## 📉 Principal Component Analysis (PCA)
+
+### 🇧🇷 Português
+
+Projeto de redução de dimensionalidade utilizando PCA para identificar padrões relevantes e simplificar conjuntos de dados complexos.
+
+### 🇺🇸 English
+
+Dimensionality reduction project using Principal Component Analysis (PCA) to identify relevant patterns and simplify complex datasets.
 
 ---
 
@@ -107,11 +135,12 @@ Project focused on housing price prediction using statistical techniques and pre
 
 ### 🇧🇷 Português
 
-Análise exploratória de dados de criminalidade utilizando estatística e visualização de dados.
+Análise estatística da criminalidade utilizando regressão linear múltipla, diagnóstico de multicolinearidade e validação completa dos pressupostos do modelo.
 
 ### 🇺🇸 English
 
-Exploratory crime data analysis using statistics and data visualization.
+Crime rate analysis using multiple linear regression, multicollinearity diagnostics, and comprehensive statistical validation of model assumptions.
+
 
 ---
 
