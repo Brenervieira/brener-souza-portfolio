@@ -14,6 +14,33 @@ The study combines Exploratory Data Analysis (EDA), Chi-Square Testing, Logistic
 
 ---
 
+## 📌 Business Problem
+
+An e-commerce company needed to determine whether a new user experience version (V1) genuinely increased conversion rates or whether the observed difference was simply the result of random sample variation.
+
+Using A/B Testing, Chi-Square Testing, and Logistic Regression, the analysis found that version V1 increased the conversion rate from approximately **10.01% to 10.99%**, representing a relative lift of approximately **9.78%**, with sufficient statistical evidence to support implementation.
+
+### 📈 Key Results
+
+✅ Conversion rate increased from 10.01% to 10.99%
+
+✅ Relative conversion lift of approximately 9.78%
+
+✅ Statistically significant result (p < 0.001)
+
+✅ Positive gains observed across all analyzed traffic sources
+
+---
+
+## 💼 Business Impact
+
+* Identified a statistically validated improvement in conversion performance.
+* Demonstrated consistent positive effects across multiple acquisition channels.
+* Provided evidence-based support for implementing the new user experience.
+* Highlighted the potential to increase revenue without additional traffic acquisition costs.
+
+---
+
 ## 🎯 The Problem
 
 Companies frequently run A/B experiments to validate product changes before rolling them out to all users.
@@ -23,6 +50,7 @@ However, not every observed difference between groups represents a real improvem
 Statistical methods are required to determine whether the observed results are significant or could have occurred by chance.
 
 This project investigates whether version V1 produces a meaningful increase in conversion rates compared to the Control version.
+
 
 ---
 

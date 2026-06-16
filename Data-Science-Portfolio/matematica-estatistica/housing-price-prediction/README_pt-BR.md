@@ -13,6 +13,39 @@ O estudo compara Regressão Linear, Regressão Spline e Regressão Kernel, além
 
 ---
 
+---
+
+## 📌 Problema de Negócio
+
+Empresas do setor imobiliário precisam estimar preços de imóveis com precisão para apoiar avaliações, investimentos, concessão de crédito e definição de estratégias comerciais.
+
+Entretanto, relações entre características dos imóveis, renda da região e localização geográfica nem sempre seguem padrões lineares, limitando a capacidade de modelos tradicionais em capturar comportamentos complexos do mercado.
+
+Utilizando Regressão Linear, Regressão Spline e Regressão Kernel, este projeto investigou se métodos não paramétricos seriam capazes de produzir previsões mais precisas e gerar insights adicionais sobre os fatores que influenciam os preços dos imóveis.
+
+### 📈 Principais Resultados
+
+✅ A Regressão Kernel apresentou o melhor desempenho preditivo entre os modelos avaliados
+
+✅ A renda mediana da região (MedInc) foi a variável mais associada aos preços dos imóveis
+
+✅ Foram identificadas diferenças estatisticamente significativas entre imóveis novos e antigos
+
+✅ A localização geográfica apresentou influência relevante sobre os preços observados
+
+✅ Métodos não paramétricos capturaram padrões complexos com maior eficiência que a regressão linear tradicional
+
+---
+
+## 💼 Impacto para o Negócio
+
+* Demonstra como técnicas avançadas podem melhorar estimativas de valor imobiliário.
+* Auxilia processos de avaliação patrimonial e análise de investimentos.
+* Evidencia a importância da localização geográfica na precificação dos imóveis.
+* Mostra como modelos não paramétricos podem capturar relações que modelos lineares deixam de identificar.
+* Apoia decisões baseadas em dados para o setor imobiliário e financeiro.
+
+
 ## 🎯 O Problema
 
 Empresas do setor imobiliário precisam compreender quais fatores influenciam os preços dos imóveis e como características estruturais e geográficas impactam seu valor de mercado.

@@ -17,6 +17,36 @@ In addition to generating recommendations, this project performs a **statistical
 
 ---
 
+## 📌 Business Problem
+
+Streaming platforms and content marketplaces need to recommend relevant content to improve user engagement, retention, and overall user satisfaction.
+
+However, recommendation systems based solely on content may overlook important aspects related to audience perception, while approaches focused only on popularity tend to reinforce already well-known content and reduce content discovery.
+
+This project proposes a hybrid recommendation system that combines movie content features with real user evaluation metrics to generate more relevant, balanced, and context-aware recommendations.
+
+### 📈 Key Results
+
+✅ The model successfully recommended movies belonging to the same narrative universe
+
+✅ Recommended movies presented similar rating patterns to the reference movie
+
+✅ A weak correlation was observed between popularity and perceived quality
+
+✅ Vote count showed a positive relationship with movie ratings
+
+✅ Combining content and performance features produced more contextually relevant recommendations
+
+---
+
+## 💼 Business Impact
+
+- Demonstrates how hybrid recommendation systems can improve recommendation relevance.
+- Reduces reliance on popularity metrics alone.
+- Enhances content discovery by identifying related movies beyond simple popularity rankings.
+- Supports user retention and engagement strategies through personalized recommendations.
+- Shows a practical application of Data Science techniques in real-world recommendation systems.
+
 ## 🎯 The Problem
 
 Platforms with large catalogs face the challenge of recommending relevant content efficiently.

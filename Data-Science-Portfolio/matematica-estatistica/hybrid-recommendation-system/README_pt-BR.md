@@ -16,6 +16,39 @@ Sistema de recomendação de filmes baseado em **similaridade híbrida**, combin
 
 Além da recomendação, o projeto realiza uma **análise estatística para validar se filmes similares também apresentam padrões semelhantes de avaliação**.
 
+---
+
+## 📌 Problema de Negócio
+
+Plataformas de streaming e marketplaces de conteúdo precisam recomendar itens relevantes para aumentar engajamento, retenção e satisfação dos usuários.
+
+Entretanto, sistemas baseados apenas em conteúdo podem ignorar aspectos importantes relacionados à percepção do público, enquanto abordagens focadas apenas em popularidade tendem a reforçar conteúdos já conhecidos.
+
+Este projeto propõe um sistema de recomendação híbrido que combina características do conteúdo dos filmes com métricas reais de avaliação dos usuários para gerar recomendações mais relevantes e consistentes.
+
+### 📈 Principais Resultados
+
+✅ O modelo recomendou corretamente filmes pertencentes ao mesmo universo narrativo
+
+✅ As recomendações apresentaram notas semelhantes ao filme de referência
+
+✅ Foi observada baixa correlação entre popularidade e qualidade percebida
+
+✅ O número de avaliações apresentou correlação positiva moderada com a nota dos filmes
+
+✅ A combinação de conteúdo e performance gerou recomendações mais contextualizadas
+
+---
+
+## 💼 Impacto para o Negócio
+
+* Demonstra como sistemas híbridos podem melhorar a relevância das recomendações.
+* Reduz a dependência exclusiva de métricas de popularidade.
+* Aumenta a capacidade de descoberta de conteúdos relacionados.
+* Contribui para estratégias de retenção e engajamento de usuários.
+* Mostra como técnicas de Data Science podem ser aplicadas em sistemas reais de recomendação.
+
+
 ## 🎯 O Problema
 
 Plataformas com grandes catálogos enfrentam o desafio de recomendar conteúdos relevantes de forma eficiente.
@@ -37,17 +70,21 @@ Neste projeto, foi proposta uma abordagem híbrida que responde à seguinte perg
 
 Este projeto segue uma abordagem orientada a validação, onde o sistema de recomendação não é apenas construído, mas também analisado sob uma perspectiva estatística.
 
-## 📌 O modelo demonstrou alta coerência semântica ao recomendar filmes do mesmo universo narrativo.
+## 📌 Exemplo de Recomendação Gerada
 
 Filme base: **The Hobbit: The Battle of the Five Armies**
 
-**Recomendações geradas pelo modelo:**
+Recomendações:
 
-* The Hobbit: The Desolation of Smaug
-* The Hobbit: An Unexpected Journey
-* The Lord of the Rings: The Fellowship of the Ring
-* The Lord of the Rings: The Two Towers
-* The Lord of the Rings: The Return of the King
+- The Hobbit: The Desolation of Smaug
+- The Hobbit: An Unexpected Journey
+- The Lord of the Rings: The Fellowship of the Ring
+- The Lord of the Rings: The Two Towers
+- The Lord of the Rings: The Return of the King
+
+### Insight
+
+O modelo demonstrou alta coerência semântica ao recomendar filmes pertencentes ao mesmo universo narrativo e com padrões semelhantes de avaliação.
 
 📊 Observação: Os filmes recomendados pertencem ao mesmo universo e apresentam **notas semelhantes**, validando a coerência do modelo.
 

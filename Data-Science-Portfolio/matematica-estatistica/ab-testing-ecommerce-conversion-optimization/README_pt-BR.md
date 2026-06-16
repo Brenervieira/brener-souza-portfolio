@@ -8,9 +8,25 @@
 
 # 🧪 A/B Testing for E-Commerce Conversion Optimization
 
-Este projeto utiliza técnicas de Experimentação, Teste de Hipóteses e Estatística Aplicada para avaliar se uma nova versão da experiência do usuário (V1) é capaz de aumentar a taxa de conversão em comparação com a versão atual (Controle).
-
 O estudo combina Análise Exploratória de Dados (EDA), Teste Qui-Quadrado, Regressão Logística, Testes Estatísticos Complementares e Análise Segmentada por Fonte de Tráfego para gerar recomendações orientadas a negócio.
+
+---
+
+## 📌 Business Problem
+
+Uma empresa de e-commerce precisava determinar se uma nova versão da experiência do usuário (V1) realmente aumentava a taxa de conversão ou se a diferença observada era resultado de variações aleatórias da amostra.
+
+Utilizando técnicas de A/B Testing, Teste Qui-Quadrado e Regressão Logística, foi identificado que a versão V1 aumentou a taxa de conversão de aproximadamente **10,01% para 10,99%**, representando um ganho relativo próximo de **9,78%**, com evidências estatísticas suficientes para recomendar sua implementação.
+
+### Key Result
+
+✅ Conversão aumentou de 10,01% para 10,99%
+
+✅ Lift relativo de aproximadamente 9,78%
+
+✅ Resultado estatisticamente significativo (p < 0,001)
+
+✅ Ganhos observados em todas as fontes de tráfego analisadas
 
 ---
 

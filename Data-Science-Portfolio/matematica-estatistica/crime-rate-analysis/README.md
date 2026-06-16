@@ -13,6 +13,39 @@ The study combines Exploratory Data Analysis (EDA), correlation analysis, multip
 
 ---
 
+## 📌 Business Problem
+
+Public administrators and urban planners often need to understand which socioeconomic and urban factors are associated with higher crime rates in order to support decision-making and resource allocation.
+
+However, crime is influenced by multiple interconnected variables, making it difficult to identify which factors truly contribute to crime rate variation.
+
+Using Multiple Linear Regression, correlation analysis, and statistical diagnostics, this project investigated whether socioeconomic and urban variables could explain crime rate patterns and provide a statistically reliable model for interpretation.
+
+### 📈 Key Results
+
+✅ Final model achieved approximately **R² = 0.86**
+
+✅ About **86% of crime rate variability** was explained by the selected variables
+
+✅ Multicollinearity issues were identified and mitigated using VIF analysis
+
+✅ Statistical assumptions were successfully validated
+
+✅ The final model provided strong explanatory power and interpretability
+
+---
+
+## 💼 Business Impact
+
+* Identified factors associated with crime rate variation.
+* Demonstrated the importance of variable selection and multicollinearity diagnostics.
+* Provided a statistically validated model suitable for interpretation and decision support.
+* Showed how socioeconomic and urban indicators can be used to better understand crime patterns.
+* Reinforced the importance of combining predictive modeling with statistical validation.
+
+
+---
+
 ## 🎯 The Problem
 
 Crime rates are influenced by multiple interconnected factors, making it difficult to identify which variables truly contribute to criminal activity.

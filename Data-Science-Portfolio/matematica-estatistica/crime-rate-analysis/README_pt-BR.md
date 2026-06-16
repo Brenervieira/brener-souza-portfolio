@@ -12,6 +12,37 @@ Este projeto aplica técnicas de modelagem estatística para investigar quais fa
 O estudo combina Análise Exploratória de Dados (EDA), análise de correlação, regressão linear múltipla e validação dos pressupostos estatísticos para construir um modelo interpretável e estatisticamente confiável.
 
 ---
+---
+
+## 📌 Problema de Negócio
+
+Gestores públicos e planejadores urbanos frequentemente precisam compreender quais fatores socioeconômicos e urbanos estão associados ao aumento das taxas de criminalidade para apoiar decisões e direcionamento de recursos.
+
+No entanto, a criminalidade é influenciada por diversas variáveis interligadas, tornando difícil identificar quais fatores realmente contribuem para as variações observadas.
+
+Utilizando Regressão Linear Múltipla, análise de correlação e diagnósticos estatísticos, este projeto investigou se variáveis socioeconômicas e urbanas poderiam explicar os padrões observados na taxa de criminalidade por meio de um modelo estatisticamente confiável.
+
+### 📈 Principais Resultados
+
+✅ Modelo final alcançou aproximadamente **R² = 0,86**
+
+✅ Cerca de **86% da variabilidade da criminalidade** foi explicada pelas variáveis selecionadas
+
+✅ Problemas de multicolinearidade foram identificados e tratados com análise VIF
+
+✅ Os principais pressupostos estatísticos foram validados
+
+✅ O modelo final apresentou forte capacidade explicativa e interpretabilidade
+
+---
+
+## 💼 Impacto para o Negócio
+
+* Identificação de fatores associados à variação das taxas de criminalidade.
+* Demonstração da importância da seleção adequada de variáveis.
+* Construção de um modelo estatisticamente validado para apoio à tomada de decisão.
+* Utilização de indicadores socioeconômicos e urbanos para compreensão dos padrões de criminalidade.
+* Aplicação prática de modelagem estatística combinada com validação rigorosa dos resultados.
 
 ## 🎯 O Problema
 

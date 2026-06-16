@@ -13,6 +13,39 @@ The study compares Linear Regression, Spline Regression, and Kernel Regression w
 
 ---
 
+---
+
+## 📌 Business Problem
+
+Real estate companies need accurate property price estimates to support valuations, investment decisions, lending operations, and commercial strategies.
+
+However, relationships between property characteristics, regional income, and geographic location do not always follow linear patterns, limiting the ability of traditional models to capture complex market behavior.
+
+Using Linear Regression, Spline Regression, and Kernel Regression, this project investigated whether nonparametric methods could deliver more accurate predictions and provide deeper insights into the factors that influence housing prices.
+
+### 📈 Key Results
+
+✅ Kernel Regression achieved the best predictive performance among the evaluated models
+
+✅ Median income (MedInc) was the variable most strongly associated with housing prices
+
+✅ Statistically significant differences were identified between newer and older properties
+
+✅ Geographic location showed a strong influence on housing values
+
+✅ Nonparametric methods captured complex patterns more effectively than traditional linear regression
+
+---
+
+## 💼 Business Impact
+
+* Demonstrates how advanced modeling techniques can improve property valuation estimates.
+* Supports real estate appraisal and investment analysis processes.
+* Highlights the importance of geographic location in housing price formation.
+* Shows how nonparametric models can uncover relationships missed by traditional linear approaches.
+* Provides data-driven insights applicable to real estate and financial decision-making.
+
+
 ## 🎯 The Problem
 
 Real estate companies need to understand which factors influence housing prices and whether location and property characteristics significantly affect market value.
