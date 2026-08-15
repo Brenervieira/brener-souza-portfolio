@@ -1,0 +1,5 @@
+factor-analyzer
+jupyter
+matplotlib
+numpy
+pandas
