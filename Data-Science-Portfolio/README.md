@@ -119,15 +119,15 @@ Predictive modeling project focused on housing price estimation using regression
 
 ---
 
-## 📉 Principal Component Analysis (PCA)
+## 📉 Principal Component Analysis (PCA) — 🔎 Em revisão | In Review
 
 ### 🇧🇷 Português
 
-Projeto de redução de dimensionalidade utilizando PCA para identificar padrões relevantes e simplificar conjuntos de dados complexos.
+Projeto de redução de dimensionalidade utilizando PCA para identificar padrões relevantes e simplificar conjuntos de dados complexos. O projeto está passando por revisão de documentação, reprodutibilidade e apresentação antes de retornar à versão pública do portfólio.
 
 ### 🇺🇸 English
 
-Dimensionality reduction project using Principal Component Analysis (PCA) to identify relevant patterns and simplify complex datasets.
+Dimensionality reduction project using Principal Component Analysis (PCA) to identify relevant patterns and simplify complex datasets. The project is currently undergoing a review of documentation, reproducibility, and presentation before returning to the public portfolio.
 
 ---
 
@@ -141,6 +141,21 @@ Análise estatística da criminalidade utilizando regressão linear múltipla, d
 
 Crime rate analysis using multiple linear regression, multicollinearity diagnostics, and comprehensive statistical validation of model assumptions.
 
+---
+
+# 🔬 Análise Multivariada | Multivariate Analysis
+
+### 🇧🇷 Português
+
+A seção de Análise Multivariada está passando por uma revisão técnica e de apresentação. Alguns projetos permanecem temporariamente fora da versão pública enquanto notebooks, documentação, caminhos de dados e reprodutibilidade são validados individualmente. Os projetos serão republicados gradualmente após essa revisão.
+
+### 🇺🇸 English
+
+The Multivariate Analysis section is currently undergoing a technical and presentation review. Some projects are temporarily unavailable in the public version while notebooks, documentation, data paths, and reproducibility are validated individually. Projects will be republished gradually after review.
+
+Consulte a pasta [`analise-multivariada`](./analise-multivariada/) para acompanhar os projetos disponíveis e em revisão.
+
+See the [`analise-multivariada`](./analise-multivariada/) folder for available projects and projects currently under review.
 
 ---
 
